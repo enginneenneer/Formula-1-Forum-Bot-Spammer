@@ -5,5 +5,5 @@ If you want to run the program make sure to have Python 3 and PRAW installed (pi
 
 Steps:
 1. Complete the config file with a user and a password for the reddit website.
-2. Go to https://www.reddit.com/prefs/apps/ and click "Are you a developer..." and create a web app to use Reddit's API. then complete the config file with the client_id and client_secret.
+2. Go to https://www.reddit.com/prefs/apps/ and click "Are you a developer..." and create a web app to use Reddit's API, then complete the config file with the client_id and client_secret.
 3. Run the program
